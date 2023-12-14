@@ -1,3 +1,16 @@
-h1 {
-    color: red;
+/* h1 {
+    color: #481620;
+}
+
+button {
+    color: #481620;
+    background-color:#0075A2;
+}
+
+body {
+    background-color: #ADF5FF;
+} */
+
+* {
+    color: blueviolet;
 }
