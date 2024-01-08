@@ -15,6 +15,10 @@ body {
     color: blueviolet;
 }
 
+h1 {
+    text-align: center;
+}
+
 #box {
     background-color:blanchedalmond;
 }
@@ -24,12 +28,12 @@ body {
 }
 
 button {
-    background-color: green;
+    background-color: rgb(159, 190, 159);
 }
 
 p {
-    text-align: right;
-    text-decoration: line-through;
+    text-align: center;
+    line-height: 30px;
 }
 
 #h1 {
@@ -46,5 +50,17 @@ p {
 
 #h4 {
     font-weight: lighter;
+}
+
+#p1 {
+    font-size: 20px;
+}
+
+#p2 {
+    font-size: 23px;
+}
+
+#p3 {
+    font-size: 8px;
 }
 
