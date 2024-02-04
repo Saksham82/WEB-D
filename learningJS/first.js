@@ -7,11 +7,17 @@
 
 const a = 9
 const b = 4
-sum(a, b)
+// sum(a, b)
 
-function sum(a, b){
-    const sum = a + b
-    console.log(sum)
+// function sum(a, b){
+//     const sum = a + b
+//     console.log(sum)
+// }
+
+let sum2 = (a,b) => {
+    console.log(a+b)
 }
+sum2(a,b)
+
 
 
