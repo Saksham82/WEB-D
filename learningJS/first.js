@@ -23,10 +23,23 @@
 // console.log(a)
 // var a=12
 
-var a = [12, 13]
-var b = a
+// var a = [12, 13]
+// var b = a
 
-b.pop()
+// b.pop()
 
+// if(-1) {
+//     console.log("chalega")
+// }
+// else {
+//     console.log("nahi chalega")
+// }
 
+for(var i=25; i<51; i++){
+    console.log(i)
+}
+var a=3
 
+while(a<10) {
+    a++
+}
