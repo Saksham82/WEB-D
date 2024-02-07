@@ -35,11 +35,42 @@
 //     console.log("nahi chalega")
 // }
 
-for(var i=25; i<51; i++){
-    console.log(i)
-}
-var a=3
+// for(var i=25; i<51; i++){
+//     console.log(i)
+// }
+// var a=3
 
-while(a<10) {
-    a++
-}
+// while(a<10) {
+//     a++
+// }
+
+// var a = [1, 2, 3, 4]
+// var b = a
+// b.pop()
+// a.push(5)
+
+// console.log(b)
+// console.log(a)
+
+
+// var a = 1
+// var b = 2
+// var c = 3
+
+// if(a>b){
+//     console.log("chalo")
+// }
+// else if(c<b){
+//     console.log("nahi chala")
+// }
+// else{
+//     console.log("last")
+// }
+
+
+// for(var i = 0; i<10; i++) {
+//     console.log(i)
+// }
+
+
+
